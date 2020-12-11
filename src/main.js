@@ -74,5 +74,3 @@ console.log(app.esPrimo(3));
 console.log(app.esPrimo(4));
 
 console.log(app.obtenerMultiplos(1, 9));
-
-console.log(app.obtenerImpares(1, 9));
